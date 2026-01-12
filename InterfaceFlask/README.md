@@ -34,7 +34,9 @@ This project expects two pretrained model files:
 - Audio model: audio_model.pth
 
 Both models currently exist in Drive. Update the link below to point to the actual location:
-Models download / location: [Drive — modify this link](DRIVE_LINK_TO_MODELS_HERE)
+Models download / location: https://drive.google.com/drive/folders/1cVj2_hXLEbu6IMIMJ8K9oYAbjPW1XF-k?usp=sharing)
+
+Also the link drive above contains models effeciency and rawnet for gradio.
 
 After downloading, place the files in the project root (same folder as app.py) or update app.py paths accordingly.
 
@@ -49,6 +51,6 @@ After downloading, place the files in the project root (same folder as app.py) o
 - If audio extraction fails, verify ffmpeg is installed and available in PATH.
 
 ## License
-Describe your license here (e.g., MIT) or remove if not applicable.
+Aymeniii.
 
 <!-- Replace DRIVE_LINK_TO_MODELS_HERE with your actual link -->
